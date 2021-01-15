@@ -1,0 +1,7 @@
+{
+  "name": "acro-line-recent",
+  "description": "A barebones Node.js app using Express",
+  "repository": "https://github.com/mksanjeewa86/acro-line-recent",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
